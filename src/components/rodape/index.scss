@@ -1,0 +1,28 @@
+.rodape{
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    background-color:orange;
+    color: white;
+    border: 2px solid orange;
+    border-radius: 4px;
+
+    .tec{
+        justify-content: end;
+        color: rgb(19, 16, 218);
+        border: 2px solid blueviolet;
+        border-radius: 4px;
+        cursor: pointer;
+        align-items: start;
+        text-align: center;
+        text-decoration: none;
+
+    }
+    
+
+    
+}
+
+   

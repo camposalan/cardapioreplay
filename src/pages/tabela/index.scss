@@ -1,0 +1,29 @@
+.pagina-tabela{
+    margin-top: -30px;
+    height: 80vh;
+    width: 100%;
+    
+    align-items: center;
+    text-align: center;
+    padding: 30px;
+    .items{
+        display: flex;
+        gap: 10px;
+        align-items: center;
+        text-align: center;
+    }
+    .tab2{
+        color: azure;
+    }
+    .seg{
+        background-color: cadetblue;
+    }
+}
+@media (max-width:768px){
+    .pagina-tabela .items{
+        flex-direction: column;
+        align-items: center;
+        margin-left: unset;
+        margin-right: unset;
+    }
+}
