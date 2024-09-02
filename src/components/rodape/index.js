@@ -2,7 +2,7 @@ import './index.scss'
 
 
 
-import image4 from "C:/cardapio/src/images/Ellipse 1.svg"
+
 
 export default function Rodape(){
     return(

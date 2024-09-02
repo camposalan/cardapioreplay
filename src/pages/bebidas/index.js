@@ -1,7 +1,7 @@
 
 import './index.scss'
 
-import image from  "C:/cardapio/src/images/refri.svg"
+import image from  "../../images/refri.svg"
 
 
 

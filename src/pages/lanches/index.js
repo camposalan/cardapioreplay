@@ -2,7 +2,7 @@ import './index.scss'
 
 
 
-import image2 from  "C:/cardapio/src/images/lanches.svg"
+import image2 from  "../../images/lanches.svg"
 import Rodape from '../../components/rodape'
 import Botao from '../../components/botao'
 
