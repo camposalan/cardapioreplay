@@ -31,6 +31,8 @@ export default function Cardapio() {
           <br></br>
           <br></br>
           <br></br>
+          <br></br>
+          <br></br>
 
       
 
@@ -41,6 +43,9 @@ export default function Cardapio() {
        
 
         <div>
+          <br></br>
+          <br></br>
+          <br></br>
           <h2 className='cardapio'>Tabela de  Preços</h2>
         </div>
 
@@ -48,6 +53,8 @@ export default function Cardapio() {
 
       
       <div>
+        <br></br>
+
        
    
 
