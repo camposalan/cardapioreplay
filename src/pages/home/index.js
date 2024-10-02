@@ -16,6 +16,9 @@ export default function Cardapio() {
         <div className='cardapio'>
          <h2> Cardápio</h2>
          <br></br>
+         <br>
+         </br>
+         <br></br>
          <div/>
 
          <div className='link'>
@@ -28,6 +31,9 @@ export default function Cardapio() {
         <br></br>
         <br></br>
         <br></br>
+        <br></br>
+        <br></br>
+        
 
          </div>
 
@@ -36,13 +42,22 @@ export default function Cardapio() {
         <br>
         </br>
         <br></br>
+        <br></br>
+        <br></br>
+
+        <div>
+          <h2>Tabela Preços</h2>
+        </div>
 
       
 
       
       <div>
-        <h2 className='cardapio'>Tabela de Preços</h2>
+       
+   
+
         <Tabela/>
+     
 
 
       </div>
