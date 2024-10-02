@@ -1,7 +1,7 @@
 import './index.scss'
 
 
- import image from "C:/cardapio/src/images/replay.svg"
+ import image from "../../images/replay.svg"
 
 
 export default function Cabecalho(){

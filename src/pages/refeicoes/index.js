@@ -2,7 +2,7 @@ import Cabecalho from '../../components/cabecalho';
 import './index.scss';
 import { Link } from 'react-router-dom';
 
-import image1 from  "C:/cardapio/src/images/refeicoes.svg"
+import image1 from  "../../images/refeicoes.svg"
 import Rodape from '../../components/rodape';
 import Botao from '../../components/botao';
 

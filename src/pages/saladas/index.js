@@ -2,7 +2,7 @@ import './index.scss'
 import Botao from '../../components/botao'
 import Rodape from '../../components/rodape'
 
-import image2 from  "C:/cardapio/src/images/lanches.svg"
+import image2 from  "../../images/refeicoes.svg"
 
 export default function Saladas(){
     return(
