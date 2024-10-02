@@ -26,27 +26,22 @@ export default function Cardapio() {
           <Link to="/refeicoes">Refeições/Saladas</Link>
           <Link to="/lanches">Lanches</Link>
           <Link to="/guarnicao">Guarnição/Petiscos</Link> 
-          
-        
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        
+
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+
+      
 
          </div>
 
       
         </div>
-        <br>
-        </br>
-        <br></br>
-        <br></br>
-        <br></br>
+       
 
         <div>
-          <h2>Tabela Preços</h2>
+          <h2 className='cardapio'>Tabela de  Preços</h2>
         </div>
 
       
