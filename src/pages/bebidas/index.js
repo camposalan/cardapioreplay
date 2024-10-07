@@ -41,15 +41,15 @@ export default function Bebidas(){
                 </tr>
                 <tr>
                     <td >Coca-Cola</td>
-                    <td >R$ 8,00</td>
+                    <td >R$ 7,00</td>
                 </tr>
                 <tr>
                     <td > Guarana</td>
-                    <td >R$ 8,00</td>
+                    <td >R$ 7,00</td>
                 </tr>
                 <tr>
                     <td >Brahma Lata</td>
-                    <td >R$ 9,00</td>
+                    <td >R$ 8,00</td>
                 </tr>
                 <tr>
                     <td >Brahma Garrafa   </td>
